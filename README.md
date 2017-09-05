@@ -1,5 +1,3 @@
 # DummyRepository
 Testing Repository
 
-
-testing
